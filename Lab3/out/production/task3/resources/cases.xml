@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>Gennadiy</firstName>
+        <lastName>Gorin</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Nazar</firstName>
+        <lastName>Korako</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Pavel</firstName>
+        <lastName>Sapotska</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>Danul</firstName>
+        <lastName>Nekrasov</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Ilia</firstName>
+        <lastName>Voin</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>Some</firstName>
+        <lastName>Body</lastName>
+    </case>
+</cases>
